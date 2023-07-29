@@ -1,6 +1,6 @@
 ﻿namespace WebApplication1Customer.Controllers
 {
-    public class Customer
+    internal class RestaurantDBEntities : IDisposable
     {
     }
 }
